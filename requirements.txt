@@ -1,0 +1,10 @@
+torch
+torchvision
+torchaudio
+numpy
+matplotlib
+pillow
+tqdm
+torchinfo
+
+
