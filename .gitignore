@@ -1,0 +1,28 @@
+# Environnements virtuels
+
+.AyoubGan/
+.vscode/
+.AyoubGan/Lib/site-packages/
+.Lib/** 
+.vs/
+
+# Fichiers de données
+data/
+json/
+sample_list/
+
+# Fichiers générés
+__pycache__/
+*.pyc
+*.pth
+*.png
+*.jpg
+*.csv
+*.txt
+*.json
+
+# Checkpoints et résultats
+checkpoints/
+checkpoint/
+results/
+evaluation_results/
