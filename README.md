@@ -15,4 +15,4 @@ for visualate results plan geerated :
 python visualize_checkpoints.py
 for evaluate model :
 python evaluate_fid.py
-
+python evaluate_is.py
