@@ -9,7 +9,10 @@ Model genrative WGAN-GP to generate plan 2D
 
 ## Utilisation
 ```bash
-python vit_train.py
-python evaluate.py --model_path checkpoints/best_model.pth
-python app.py 
-npm start
+for train model :
+python train_wgan.py
+for visualate results plan geerated :
+python visualize_checkpoints.py
+for evaluate model :
+python evaluate_fid.py
+
